@@ -154,7 +154,7 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
 </td></tr>
 <tr>
     <td valign="top">wk 9 <p>March 30 and April 1</p></td>    
-    <td valign="top"><strong> <li>Review of Homework</li> </strong><li> Personas</li></td>
+    <td valign="top"> Review of Homework<br>  Personas</td>
     <td valign="top"><li><a href="">Future Project.</a></li> 
       <li> Read the midterm letters from the last cohort and post a reflection on your process site.</li>
         <li><a href="constant_input_output.md">constant input/output</a></li>
@@ -174,7 +174,7 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
 </tr>
 <tr>
     <td valign="top">wk 11<p>April 13 & April 15</p></td> 
-    <td valign="top"><li>Review Homework</li><li>Future Presentation Brainstorm</li></td>
+    <td valign="top">Review Homework<br>Future Presentation Brainstorm</td>
       <td valign="top"><li><a href="">Future Project </a></li>
   <li><a href="constant_input_output.md">constant input/output project</a></li> 
 <li> Post your <a href = "notebook_or_sketchbook.md">sketchbook</a> work to your Process site </li><li><a href ="Time_Management_System.md">Time Management System</a> and reflection</li>
