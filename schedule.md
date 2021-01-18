@@ -64,7 +64,7 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
     </ul>
     </td> 
     <td valign="top">
-    <li> Netflix video? </li>
+    <li> Watch <a href = " https://www.netflix.com/title/81090128?s=a&trkid=13747225&t=cp " >The Creative Brain </a> on Netflix. Write a short reflection and take some notes. I want to hear your thoughts next class.</li>
      <li> Read letters to the next cohort (found on slack resources). Write a brief <a href = "reflect.md">reflection </a>on your Process Site. Post to your process website.</li>
      <li>Post to your <a href= "constant_input_output.md">constant input/output</a> details to your process website: What are you going to do? What does this mean? What SPECIFIC resources are you going to utilize? What is the next step? What is the step after that? Include your proposed schedule (when? actual dates. Make the due dates Mondays - 9am EST.) Post to your process website, under constant input/output tab. Also, gather ans secure the resources you need to work.</li>
     <li> Read - Show Your Work </li>

@@ -256,6 +256,8 @@ _The following list of required readings may be incomplete and is subject to cha
 * [IDEO’s Human-centered Design Toolkit](http://www.designkit.org/resources/1) (available free online)
 * [Show Your Work by Austin Kleon](https://www.amazon.com/Show-Your-Work-Creativity-Discovered-ebook/dp/B00GU2RGGI/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1533236421&sr=1-1&keywords=austin+kleon)
 * [Don't Read This Book: Time Management for Creative People by Donald Roos](https://www.amazon.com/Dont-Read-This-Book-Management-ebook/dp/B075F8B5BF)
+* Speculative Everything by Anthony Dunne and Fiona Raby
+* The Pocket Universal Methods of Design: 100 Ways to Research Complex Problems, Develop Innovative Ideas, and Design Effective Solutions by  Bruce Hanington and Bella Martin 
 
 ### REQUIRED MEDIA
 _The following list of required media may be incomplete and is subject to change. Please see the course website for updates._
@@ -264,6 +266,9 @@ _The following list of required media may be incomplete and is subject to change
 * [Ira Glass on storytelling](https://www.youtube.com/watch?v=5pFI9UuC_fc&list=PLE108783228F1E008)
 * [Metal Gear Solid Documentary: Watch The Making of a Hollywood Game](https://youtu.be/eJVYND_YRx8) 
 * [Metal Gear Solid Documentary: Hideo Kojima's Gene](https://youtu.be/2nM7TLbs6fE)
+* [Abstract: The Art of Design](https://www.netflix.com/browse?jbv=80057883&jbp=0&jbr=2). Netflix required. Note there are 2 season, with each episode on a different person's practice. 
+* [The Creative Brain][https://www.netflix.com/title/81090128?s=a&trkid=13747225&t=cp] Netflix required.
+
 
 ### [RECOMMENDED RESOURCES](recommended_resources.md)
 See Appendix
@@ -273,7 +278,7 @@ See Appendix
 
 All due dates can be found in the calendar. This is just an overview and description of all the projects for the course. 
 
-Post all homework assignments to your Process Site by Sunday Noon. Period. Otherwise, they are considered late. When you post, post not just images, but a short discussion outlining what happened and what you gained. Give us context.
+Post all homework assignments to your Process Site by Monday 9am EST. Period. Otherwise, they are considered late. When you post, post not just images, but a short discussion outlining what happened and what you gained. Give us context.
 
 Context and discussion of each assignment is addressed within the assigned modules. Make sure to read each module, so as to complete each assignment appropriately.
 
