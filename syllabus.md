@@ -26,7 +26,7 @@ Prerequisite: None
 
 #### [Maker Center Calendar](http://makerspace.engineering.nyu.edu/training/)
 
-#### [Slack workspace](https://IP_Spring21_Bennett.slack.com) The URL is: https://ipsp20bennett.slack.com. You must first join the work space. Use the link below to join:
+#### [Slack workspace](https://ipspring21bennett.slack.com/) The URL is: https://ipsp20bennett.slack.com. You must first join the work space. Use the link below to join:
 
 [**Link to join Slack**](https://join.slack.com/t/nyu-hby6618/shared_invite/zt-lacx2968-BAohXKoa64Oqas8LEVArxg) Good only for a limited time
 
@@ -126,6 +126,7 @@ There will be discrete team and individual exercises and projects that require y
 * Devote at a minimum 6 - 8 hours per week - of well organized time - outside of class: fulfilling homework assignments, reading, and studying concepts covered in class.
 * Consult slack at least twice a week for up to date info. Ideally towards the end of the week.
 * Complete all assignments and post to your site by due dates and time deadlines - Monday 9am EST
+* If you are asynchronous, you must schedule 4 meetings with me during my office hours. It is up to you to schedule these. If you cannot meet during my office hours, it is up to you to communicate that to me and to suggest an alternative time.
 * Acquire and read all assigned readings before they are due
 * Do. not. do. your. homework. in. one. sitting. Do not do it all the night before its due. Start it early to give yourself time to ask questions and get answers.
 * Give your classmates constructive feedback. Don't be passive in critiques or take it personally. Push everyone's ideas further.
@@ -146,7 +147,8 @@ There will be discrete team and individual exercises and projects that require y
 
 ##### Attendance
 
-* Attendance is mandatory, whether synchronous or asynchronous. Since there is so much technical, conceptual, and design information to absorb, regular attendance is essential. I cannot stress this enough. You must attend class and watch the recordings in a timely fashion to ensure that you are understanding how to work.
+* Attendance is mandatory, whether synchronous or asynchronous. Since there is so much technical, conceptual, and design information to absorb, regular attendance is essential. I cannot stress this enough. You must attend class and watch the recordings in a timely fashion (within 6 days of the recording) to ensure that you are understanding how to work.
+* If you are asynchronous, _you must schedule 4 meetings with me during my office hours._ It is up to you to schedule these. If you cannot meet during my office hours, it is up to you to communicate that to me and to suggest an alternative time.
 * Unexcused absences will affect your grade. 
 * Feedback sessions cannot be made up.
 * Be on Time. Tardiness will affect your grade. For every 3 tardies (15 minutes or more), you accure an absence. See above
@@ -154,7 +156,7 @@ There will be discrete team and individual exercises and projects that require y
 * Attendance is mandatory for the midterm and final presentations / critiques. No exceptions. Critiques can not be made up.
 * Work is still due on due dates, regardless of whether you are in class or not.
 * Material missed is the responsibility of the student to make up. Watch the class recordings. Consult the syllabus. Speak to other classmates in order to find out what was discussed. Speak to several of them and at length. Check the Slack. 
-* If you have some extenuating need to be outside of class (special doctor's appointment, religious observations, etc etc), please contact Deanna Rayment at (deanna.rayment@nyu.edu, 646.997.3046). They are the Coordinator of Student Advocacy and Compliance. A note from her office can excuse absences. 
+* If you have some extenuating need to be outside of class (special doctor's appointment, religious observations, medical issues etc etc), please contact Deanna Rayment at (deanna.rayment@nyu.edu, 646.997.3046). They are the Coordinator of Student Advocacy and Compliance. A note from her office will excuse absences. 
 
 
 #### Your final grade will be based on a synthesis of quantitative &amp; qualitative rubrics:
@@ -240,7 +242,7 @@ Faculty can provide course accommodations/modifications only after receipt of an
 *   A physical notebook or Sketchbook. I use Moleskine or something similiar. 
 *	A physical planner 
 *   Digital Camera (You can also use a smart phone.)
-*   Access to Netflix (for one video)
+*   Access to Netflix (for two videos)
 *   Digital Storage (Thumb Drives or External Hard Drive, Laptop, etc)
 * 	Youtube or Vimeo Account
 *   paper, scissors+/craft knife, hot glue + gun, tape, toothpicks, popsicle sticks, string, cardboard, legos, tinkertoys, wood, etc.
