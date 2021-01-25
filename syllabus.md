@@ -26,7 +26,7 @@ Prerequisite: None
 
 #### [Maker Center Calendar](http://makerspace.engineering.nyu.edu/training/)
 
-#### [Slack workspace](https://ipspring21bennett.slack.com/) The URL is: https://ipsp20bennett.slack.com. You must first join the work space. Use the link below to join:
+#### [Slack workspace](https://ipspring21bennett.slack.com) The URL is: https://ipspring21bennett.slack.com/. You must first join the work space. Use the link below to join:
 
 [**Link to join Slack**](https://join.slack.com/t/nyu-hby6618/shared_invite/zt-lacx2968-BAohXKoa64Oqas8LEVArxg) Good only for a limited time
 
