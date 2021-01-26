@@ -5,7 +5,7 @@
 
     Katherine Bennett • Katherine.Bennett@nyu.edu • Spring 2021 
     Tuesday/Thursday • 4:00PM-5:50PM • remote 
-    Office Hours: Friday 10am-12pm EST, https://calendly.com/ladyk/office_hours by appointment 
+    Office Hours: Friday 10am-12pm EST, https://calendly.com/ladyk/office_hours [by appointment](https://calendly.com/ladyk/office_hours) 
 
 #### Course Management Site:
 
@@ -224,7 +224,11 @@ The lowest possible grade is an F, provided there is work to assess. If there is
 
 Students who are below satisifactory will be given feedback in Slack via direct message. It is up to you to respond to the directives. Students who are endangered of failing will be notifed via Slack. Be mindful and check Slack, especially around the last day to withdrawl.
 
-### ACADEMIC HONESTY
+### ACADEMIC Integrity
+
+Violations of academic integrity are considered to be acts of academic dishonesty and include (but are not limited to) cheating, plagiarizing, fabrication, denying other access to information or material, and facilitating academic dishonesty, and are subject to the policies and procedures noted in the Student Handbook and within the Course Catalog, including the Student Code of Conduct and the Student Judicial System.  Please note that lack of knowledge of citations procedures, for example, is an unacceptable explanation for plagiarism, as is having studied together to produce remarkable similar papers or creative works submitted separately by two students, or recycling work from a previous class.
+
+Please review <a href="https://www.nyu.edu/about/policies-guidelines-compliance/policies-and-guidelines/academic-integrity-for-students-at-nyu.html">NYU's School of Engineering's academic dishonesty policy</a> in its entirety.  Procedures may include, but are not limited to: failing the assignment, failing the course, going in front of an academic judicial council and possible suspension from school.  Violations will not be tolerated.
 
 All work for this class must be your own and specific to this semester. Any work recycled from other classes or from another, non-original source will be rejected with serious implications for the student. Plagiarism, knowingly representing the words or ideas of another as one’s own work in any academic exercise, is absolutely unacceptable. Any student who commits plagiarism must re-do the assignment for a grade no higher than a D. In fact, a D is the highest possible course grade for any student who commits plagiarism. Please use the MLA style for citing and documenting source material.   
 
@@ -283,6 +287,10 @@ All due dates can be found in the calendar. This is just an overview and descrip
 Post all homework assignments to your Process Site by Monday 9am EST. Period. Otherwise, they are considered late. When you post, post not just images, but a short discussion outlining what happened and what you gained. Give us context.
 
 Context and discussion of each assignment is addressed within the assigned modules. Make sure to read each module, so as to complete each assignment appropriately.
+
+### Inclusion
+
+The NYU Tandon School values an inclusive and equitable environment for all our students. I hope to foster a sense of community in this class and consider it a place where individuals of all backgrounds, beliefs, ethnicities, national origins, gender identities, sexual orientations, religious, castes and political affiliations, and abilities will be treated with respect.   It is my intent that all students’ learning needs be addressed both in and out of class, and that the diversity that students bring to this class be viewed as a resource, strength and benefit.  If this standard is not being upheld, please feel free to speak with me.
 
 
 #### Project
