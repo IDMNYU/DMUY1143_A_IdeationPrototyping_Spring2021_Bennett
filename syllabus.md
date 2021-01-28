@@ -275,7 +275,7 @@ _The following list of required media may be incomplete and is subject to change
 * [Metal Gear Solid Documentary: Watch The Making of a Hollywood Game](https://youtu.be/eJVYND_YRx8) 
 * [Metal Gear Solid Documentary: Hideo Kojima's Gene](https://youtu.be/2nM7TLbs6fE)
 * [Abstract: The Art of Design](https://www.netflix.com/browse?jbv=80057883&jbp=0&jbr=2). Netflix required. Note there are 2 season, with each episode on a different person's practice. 
-* [The Creative Brain][https://www.netflix.com/title/81090128?s=a&trkid=13747225&t=cp] Netflix required.
+* [The Creative Brain](https://www.netflix.com/title/81090128?s=a&trkid=13747225&t=cp) Netflix required.
 
 
 ### [RECOMMENDED RESOURCES](recommended_resources.md)
