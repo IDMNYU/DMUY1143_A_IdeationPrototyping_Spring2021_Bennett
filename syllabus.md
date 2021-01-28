@@ -127,6 +127,8 @@ There will be discrete team and individual exercises and projects that require y
 * Consult slack at least twice a week for up to date info. Ideally towards the end of the week.
 * Complete all assignments and post to your site by due dates and time deadlines - Monday 9am EST
 * If you are asynchronous, you must schedule 4 meetings with me during my office hours. It is up to you to schedule these. If you cannot meet during my office hours, it is up to you to communicate that to me and to suggest an alternative time.
+* If you need to switch to asynchronous mode, please communicate that with me. If you cannot be in a class, but will watch the recording, communicate that with me.
+* Participation is not limited to the assignments that you turn in. Participation also includes not only your presence in class, but your questions, feedback and dialog. Do not fall into the trap of being lazy during class and never vocalizing your presence (and never having your camera on). Lean in and be present. If you have a question, someone else does too. You vocalizing your questions helps others to do the same.
 * Acquire and read all assigned readings before they are due
 * Do. not. do. your. homework. in. one. sitting. Do not do it all the night before its due. Start it early to give yourself time to ask questions and get answers.
 * Give your classmates constructive feedback. Don't be passive in critiques or take it personally. Push everyone's ideas further.
