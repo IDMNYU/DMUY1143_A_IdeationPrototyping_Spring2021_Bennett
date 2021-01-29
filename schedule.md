@@ -40,7 +40,7 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
     <li> <a href = "notebook_or_sketchbook.md"> Get a notebook or sketchbook </a></li>
     <li>Acquire texts:  <a href = "https://www.amazon.com/Show-Your-Work-Austin-Kleon/dp/076117897X"> Show Your Work by Austin Kleon </a> and <a href = "https://www.amazon.com/Dont-Read-This-Book-Management/dp/9063694237/ref=sr_1_1?s=books&ie=UTF8&qid=1548300839&sr=1-1&keywords=Don%27t+Read+This+Book%3A+Time+Management+for+Creative+People+by+Donald+Roos"> Don't Read This Book: Time Management for Creative People by Donald Roos. </a>Start reading "Show Your Work".</li>
     <li> <a href= "http://teaching.polishedsolid.com/ip/mod1/content/index.html#/?_k=havep2"> Read: Module 1 (including links) </a></li>
-    <li><a href="constant_i_o.md">Constant Input/Output Maps</a> and post to your site under "Constant Input/Output tab"</li>
+    <li><a href="constant_i_o_map.md">Constant Input/Output Maps</a> and post to your site under "Constant Input/Output tab" regarding ideas for your<a href="constant_input_output.md"> Constant Input/Output project</a></li>
     <li><a href = "Care_Package.md">Care Packages</li></a>
     <li> Read: <a href = "https://alistapart.com/article/sketching-the-visual-thinking-power-tool">Rohde, Mike. “Sketching: the Visual Thinking Power Tool.” A List Apart. January 25, 2011. </a></li>
 <li><a href = "https://alistapart.com/article/the-miseducation-of-the-doodle">Brown, Sunni. “The Miseducation of the Doodle.” A List Apart. January 25, 2011. </a></li>
