@@ -7,7 +7,7 @@
 
 #### Do not write a summary. In other words, do not regurgitate the article. Discuss any epiphanies or insights that occurred while reading, how it reflects your own creative process (or does not and why) or how it will inform or change your own process (or will not and why).
 
-<a href = "https://docs.google.com/document/d/13mPvNh6WVts3y8n00pNEWpormeIX7EEH6wvnTOfJSu0/edit?usp=sharing" Here are some examples from previous students that are good. </a>
+[Here are some examples](https://docs.google.com/document/d/13mPvNh6WVts3y8n00pNEWpormeIX7EEH6wvnTOfJSu0/edit?usp=sharing) from previous students that are good.
 
 Here are some others that are not so good. (link forthcoming)
 
