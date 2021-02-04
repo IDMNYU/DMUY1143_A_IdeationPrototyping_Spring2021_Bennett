@@ -15,7 +15,7 @@ Part 1: Research the history of your chosen technology: when was it invented, by
 
 * Collect visual research (user images, documentation, mood boards, photo diary)
 
-* Create thoughtful questionaire and survey users
+* [Create thoughtful questionaire and survey users](https://www.nytimes.com/2018/11/17/style/self-care/terry-gross-conversation-advice.html)
 
 * Create a game for users and note the gameplay and resuls
 
