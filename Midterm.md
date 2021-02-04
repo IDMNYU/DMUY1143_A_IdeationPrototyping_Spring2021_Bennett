@@ -13,4 +13,16 @@ Sherry Turkle has said that users will eventually have to demand “seat belts,�
 
 Part 1: Research the history of your chosen technology: when was it invented, by whom and how has it changed over the years? Consider how in a present or future scenario, your chosen technology may be misused.
 
+* Collect visual research (user images, documentation, mood boards, photo diary)
+
+* Create thoughtful questionaire and survey users
+
+* Create a game for users and note the gameplay and resuls
+
+* Historical research (hit the library)
+
+* Sit and observe users (document your research findings)
+
+* Contemporary Issues (research newspapers, blogs, movies)
+
 Part 2: Design something to help prevent or change this misuse. Create studies, drawings, tests, and prototypes for early scheduled feedback. Your design will likely be speculative, so you will need to consider ways to gain feedback on it without fully building it out, such as “Wizard of Oz.” Create a final version of the design based on feedback. Document your design in a way that builds a narrative around it. Recommended: staged or manipulated photograph, short video, or GIF. Your final outcome should be finished and presentation ready. For group work, be prepared to explain how you divided the labor. 
