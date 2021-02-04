@@ -58,6 +58,7 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
     <ul>
        <li><a href="constant_i_o.md">Constant Input/Output Maps</a></li>
       <li> Sketching </li>
+      <li><a href = "Midterm.md">Midterm</a></li>
       <li> moodboards + visual research</li>
     <li> <a href = "recommended_resources.md"> Recommended Resources </a> </li>
     <li><a href = "Care_Package.md">Care Packages</li></a> 
@@ -74,14 +75,14 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
 <tr>
     <td valign="top">wk 3<p>Feb 11 & Feb 16</p></td>
     <td valign="top">
-      <li> Discuss Design Research</li><li> Discuss: <a href = "UrbanIntervention_City_As_Site.md">Urban Intervention </a></li>
+      <li> Discuss Design Research</li><li> Discuss: <a href = "Midterm.md">Midterm</a></li>
        <li> Moodboards, word lists, referencing, research types</li>
        <li>Discuss Collaborative Tools (Slack, Google Docs, Kanbanery vs. Trello, etc.)</li>
 <li>Review Homework</li>
 </td>  
     <td valign="top">
     <ul>
-     <li><a href = "UrbanIntervention_City_As_Site.md">Urban Intervention </a>Part 1: Choose site & RESEARCH. Note the multiple ways to research. Document several of your own research endeavours.</li>
+     <li><a href = "Midterm.md">Midterm</a>Part 1: Choose technology & RESEARCH. Note the multiple ways to research. Document several of your own research endeavours.</li>
      <li>By next week, you should be half way through Show Your Work. If you aren't, get reading!</li>
     <li><a href= "constant_input_output.md.md"> Constant Input/Constant Ouput (if scheduled)</li> </a> <li> Post your <a href = "notebook_or_sketchbook.md">sketchbook</a> work to your Process site </li>
     <li><a href ="Time_Management_System.md">Time Management System</a></li></ul>
@@ -109,12 +110,12 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
 </tr>
   <tr>
     <td valign="top">wk 5<p>March 2 & March 4 </p></td>  
-    <td valign="top"> <li> <strong> Finish Presenting Urban Intervention Part 1</strong></li>
+    <td valign="top"> <li> <strong> Finish Presenting MidTerm Part 1</strong></li>
       <li>Review Homework</li>
       <li> Crash Course in Video Editing </li>
     <li>Follow up on <a href="recommended_journals_and_planners.md">Recommended Journals and Planners, Time Management and Productivity Systems</a> for Performance Anxiety</li>
     <td>
-    <li><a href="UrbanIntervention_City_As_Site.md">Urban Intervention: Part 2</a></li>
+    <li><a href = "Midterm.md">Midterm Part 2</a></li>
     <li> Read: IDEO/Pocket Universal Methods of Design</li>
     <li><a href="constant_input_output.md">constant input/output</a></li>
     <li> Read - Show Your Work </li>. Post your <a href = "reflect.md">reflections </a> to your Process site.</ul>
@@ -123,7 +124,7 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
 </tr>
 <tr>
     <td valign="top">wk 6 <p>March 9 & March 11</p></td>    
-   <td valign="top"><strong> Presentation of Urban Invervention Part 2 & Feedback session<br></strong>I+P Exercises</td>
+   <td valign="top"><strong> Presentation of Midterm Part 2 & Feedback session<br></strong>I+P Exercises</td>
     <td>
       <ul>
     <li> <a href="constant_input_output.md">constant input/output</a></li>
