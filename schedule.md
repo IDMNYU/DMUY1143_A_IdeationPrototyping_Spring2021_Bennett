@@ -58,8 +58,9 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
     <ul>
        <li><a href="constant_i_o.md">Constant Input/Output Maps</a></li>
       <li> Sketching </li>
-      <li><a href = "Midterm.md">Midterm</a></li>
-      <li> moodboards + visual research</li>
+      <li> Discuss: <a href = "Midterm.md"> Midterm</a></li>
+      <li> visual research</li>
+      <li> Interviews </li>
     <li> <a href = "recommended_resources.md"> Recommended Resources </a> </li>
     <li><a href = "Care_Package.md">Care Packages</li></a> 
     </ul>
@@ -75,7 +76,7 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
 <tr>
     <td valign="top">wk 3<p>Feb 11 & Feb 16</p></td>
     <td valign="top">
-      <li> Discuss Design Research</li><li> Discuss: <a href = "Midterm.md">Midterm</a></li>
+      <li> Discuss Design Research</li><li> Discuss: <a href = "Midterm.md"> Midterm</a></li>
        <li> Moodboards, word lists, referencing, research types</li>
        <li>Discuss Collaborative Tools (Slack, Google Docs, Kanbanery vs. Trello, etc.)</li>
 <li>Review Homework</li>
