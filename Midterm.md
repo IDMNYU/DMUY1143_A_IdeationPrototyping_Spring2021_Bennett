@@ -11,7 +11,7 @@
 
 Sherry Turkle has said that users will eventually have to demand “seat belts,” for social media technologies–– safety measures that may require activism before they are implemented, parallel to consumer calls for safety measures from the automotive industry in the 1950’s and 1960’s. The question is, what form will “seat belts” for digital and connected technologies take? With your group, identify a type of technology which you believe needs a seat belt. As you brainstorm, consider technologies within many different areas: transportation, infrastructure, food production, banking, education technologies, etc. Avoid “locking in” to the first technology you think of. 
 
-Part 1: Research the history of your chosen technology: when was it invented, by whom and how has it changed over the years? Consider how in a present or future scenario, your chosen technology may be misused.
+*Part 1:* Research the history of your chosen technology: when was it invented, by whom and how has it changed over the years? Consider how in a present or future scenario, your chosen technology may be misused.
 
 * Collect visual research (user images, documentation, mood boards, photo diary)
 
@@ -25,4 +25,4 @@ Part 1: Research the history of your chosen technology: when was it invented, by
 
 * Contemporary Issues (research newspapers, blogs, movies)
 
-Part 2: Design something to help prevent or change this misuse. Create studies, drawings, tests, and prototypes for early scheduled feedback. Your design will likely be speculative, so you will need to consider ways to gain feedback on it without fully building it out, such as “Wizard of Oz.” Create a final version of the design based on feedback. Document your design in a way that builds a narrative around it. Recommended: staged or manipulated photograph, short video, or GIF. Your final outcome should be finished and presentation ready. For group work, be prepared to explain how you divided the labor. 
+*Part 2:* Design something to help prevent or change this misuse. Create studies, drawings, tests, and prototypes for early scheduled feedback. Your design will likely be speculative, so you will need to consider ways to gain feedback on it without fully building it out, such as “Wizard of Oz.” Create a final version of the design based on feedback. Document your design in a way that builds a narrative around it. Recommended: staged or manipulated photograph, short video, or GIF. Your final outcome should be finished and presentation ready. For group work, be prepared to explain how you divided the labor. 
