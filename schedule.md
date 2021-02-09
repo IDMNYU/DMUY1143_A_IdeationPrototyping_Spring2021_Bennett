@@ -58,7 +58,7 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
     <ul>
        <li><a href="constant_i_o.md">Constant Input/Output Maps</a></li>
       <li> Sketching </li>
-      <li> Discuss: <a href = "Midterm.md"> Midterm</a></li>
+      <li> Discuss:  <a href = "Midterm.md"> Midterm</a></li>
       <li> visual research</li>
       <li> Interviews </li>
     <li> <a href = "recommended_resources.md"> Recommended Resources </a> </li>
