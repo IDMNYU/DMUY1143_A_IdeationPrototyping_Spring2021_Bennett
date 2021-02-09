@@ -69,6 +69,7 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
     <li> Watch <a href = " https://www.netflix.com/title/81090128?s=a&trkid=13747225&t=cp " >The Creative Brain </a> on Netflix. Write a short reflection and take some notes. I want to hear your thoughts next class.</li>
      <li> Read letters to the next cohort (found on slack resources). Write a brief <a href = "reflect.md">reflection </a>on your Process Site. Post to your process website.</li>
      <li>Post to your <a href= "constant_input_output.md">constant input/output</a> details to your process website: What are you going to do? What does this mean? What SPECIFIC resources are you going to utilize? What is the next step? What is the step after that? Include your proposed schedule (when? actual dates. Make the due dates Mondays - 9am EST.) Post to your process website, under constant input/output tab. Also, gather ans secure the resources you need to work.</li>
+     <li><a href = "Midterm.md">Midterm</a>Part 1: Choose technology & RESEARCH. Note the multiple ways to research. Document several of your own research endeavours.</li>
     <li> Read - Show Your Work </li>
     <li> Post your <a href = "notebook_or_sketchbook.md"> sketchbook </a>work to your Process site </li>
     </td>
@@ -83,8 +84,7 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
 </td>  
     <td valign="top">
     <ul>
-     <li><a href = "Midterm.md">Midterm</a>Part 1: Choose technology & RESEARCH. Note the multiple ways to research. Document several of your own research endeavours.</li>
-     <li>By next week, you should be half way through Show Your Work. If you aren't, get reading!</li>
+     <li><a href = "Midterm.md">Midterm</a>Part 1: Continue research. Document several of your own research endeavours.</li>
     <li><a href= "constant_input_output.md.md"> Constant Input/Constant Ouput (if scheduled)</li> </a> <li> Post your <a href = "notebook_or_sketchbook.md">sketchbook</a> work to your Process site </li>
     <li><a href ="Time_Management_System.md">Time Management System</a></li></ul>
 </td>
@@ -103,7 +103,7 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
  <li> <a href = "http://teaching.polishedsolid.com/ip/mod3/content/index.html#/?_k=uu7v7d"> Read Module 3 including links </a> </li>  
      <li>Write your <a href = "refect.md">reflection response </a> to the Everything is a Remix as well as The Force Awakens, The Matrix and The IPhone by Kirby Ferguson (See Module 3). Post to your process website under "reflections tab".</li> 
      <li> <a href = "http://teaching.polishedsolid.com/ip/mod9/content/index.html#/?_k=dnj7pt"> Read Module 9 </a> ONLY THE SECTION ON PROTOTYPING</li>
-    <li> Read - Show Your Work </li>
+    <li> Read - Show Your Work; By the end of next week or so, you should be half way through Show Your Work. If you aren't, get reading!</li>
     <li> Post your <a href ="notebook_or_sketchbook.md">sketchbook </a> work to your Process site </li>
     <li><a href ="Time_Management_System.md">Time Management System</a></li>
     <li><a href="constant_input_output.md">constant input/output</a></li> </ul>
