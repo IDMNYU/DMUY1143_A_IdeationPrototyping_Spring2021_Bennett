@@ -9,7 +9,7 @@
 
 - Turkle, Sherry. Reclaiming conversation: The power of talk in a digital age. Penguin, 2016.
 
-Sherry Turkle has said that users will eventually have to demand “seat belts,” for social media technologies–– safety measures that may require activism before they are implemented, parallel to consumer calls for safety measures from the automotive industry in the 1950’s and 1960’s. The question is, what form will “seat belts” for digital and connected technologies take? With your group, identify a type of technology which you believe needs a seat belt. As you brainstorm, consider technologies within many different areas: transportation, infrastructure, food production, banking, education technologies, etc. Avoid “locking in” to the first technology you think of. 
+Sherry Turkle has said that users will eventually have to demand “seat belts,” for social media technologies–– safety measures that may require activism before they are implemented, parallel to consumer calls for safety measures from the automotive industry in the 1950’s and 1960’s. The question is, what form will “seat belts” for digital and connected technologies take? Identify a type of technology which you believe needs a seat belt. As you brainstorm, consider technologies within many different areas: transportation, infrastructure, food production, banking, education technologies, etc. Avoid “locking in” to the first technology you think of. 
 
 *Part 1:* Research the history of your chosen technology: when was it invented, by whom and how has it changed over the years? Consider how in a present or future scenario, your chosen technology may be misused.
 
