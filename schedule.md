@@ -95,11 +95,11 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
       <li> Discuss Design Research: Part 2</li>
       <li> Discuss: Prototyping</li>
       <li>I+P Exercise: <a href = "https://www.mindtools.com/pages/article/newCT_02.htm">SCAMPER Technique by Michael Michalko</a></li>
-      <li> <strong> Present Urban Intervention Part 1</strong></li>
+      <li> <strong> Midterm Part 1</strong></li>
       </td>
     <td valign="top">
     <ul>
-    <li><a href="UrbanIntervention_City_As_Site.md">Urban Intervention: Part 2</a></li>
+    <li><a href = "Midterm.md"> Midterm</a> Part 2</li>
  <li> <a href = "http://teaching.polishedsolid.com/ip/mod3/content/index.html#/?_k=uu7v7d"> Read Module 3 including links </a> </li>  
      <li>Write your <a href = "refect.md">reflection response </a> to the Everything is a Remix as well as The Force Awakens, The Matrix and The IPhone by Kirby Ferguson (See Module 3). Post to your process website under "reflections tab".</li> 
      <li> <a href = "http://teaching.polishedsolid.com/ip/mod9/content/index.html#/?_k=dnj7pt"> Read Module 9 </a> ONLY THE SECTION ON PROTOTYPING</li>
