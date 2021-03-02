@@ -117,7 +117,7 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
     <li>Follow up on <a href="recommended_journals_and_planners.md">Recommended Journals and Planners, Time Management and Productivity Systems</a> for Performance Anxiety</li>
     <td>
     <li><a href = "Midterm.md">Midterm Part 2</a></li>
-    <ol>Skim through: Pocket Universal Methods of Design
+    <li><ol>Skim through: Pocket Universal Methods of Design</li>
       <li> Pick 2 of the methods (that make sense for your midterm AND are ones that you have not already done previously)</li>
       <li> Enact/Try/Apply/Do them with reference to your midterm. Document the process and post the images and a reflection to your Process site </li> </ol>
     <li><a href="constant_input_output.md">constant input/output</a></li>
