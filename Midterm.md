@@ -11,7 +11,7 @@
 
 Sherry Turkle has said that users will eventually have to demand “seat belts,” for social media technologies–– safety measures that may require activism before they are implemented, parallel to consumer calls for safety measures from the automotive industry in the 1950’s and 1960’s. The question is, what form will “seat belts” for digital and connected technologies take? Identify a type of technology which you believe needs a seat belt. As you brainstorm, consider technologies within many different areas: transportation, infrastructure, food production, banking, education technologies, etc. Avoid “locking in” to the first technology you think of. 
 
-*Part 1:* Research the history of your chosen technology: when was it invented, by whom and how has it changed over the years? Let your research inform you as to how, in a present or future scenario, your chosen technology may be misused. Do not answer this question before your research (nor let the misuse lead you to whether or not your chosen technology is suitable for this project).
+#### Part 1: Research the history of your chosen technology: when was it invented, by whom and how has it changed over the years? Let your research inform you as to how, in a present or future scenario, your chosen technology may be misused. Do not answer this question before your research (nor let the misuse lead you to whether or not your chosen technology is suitable for this project).
 
 1. Start by doing a mind-map of your chosen technology. Brainstorm what it is, with what ever comes to your mind.
 
@@ -43,4 +43,13 @@ After doing this research, you should have evidence of misuse.
 
 
 
-*Part 2:* Design something to help prevent or change this misuse. Create studies, drawings, tests, and prototypes for early scheduled feedback. Your design will likely be speculative, so you will need to consider ways to gain feedback on it without fully building it out, such as “Wizard of Oz.” Create a final version of the design based on feedback. Document your design in a way that builds a narrative around it. Recommended: staged or manipulated photograph, short video, or GIF. Your final outcome should be finished and presentation ready. For group work, be prepared to explain how you divided the labor. 
+#### Part 2: Design something to help prevent or change this misuse. Create studies, drawings, tests, and prototypes for early scheduled feedback. Your design will likely be speculative, so you will need to consider ways to gain feedback on it without fully building it out, such as “Wizard of Oz.” Create a final version of the design based on feedback. Document your design in a way that builds a narrative around it. Recommended: staged or manipulated photograph, short video, or GIF. Your final outcome should be finished and presentation ready. For group work, be prepared to explain how you divided the labor. 
+
+
+#### Showing Your Progress
+
+Create a short 4 minute presentation on your progress to date. Do not show every step of your process. Start with the technology that you choose, show us the turning points and revelations that you had throughout the process. Turning points should be evident through your research and/or prototype. Show nice clear images of your prototype, from multiple angles. You can even include a super short video of it in action, or/and even the feedback from users.
+
+Practice your presentation to ensure that it fits within the time constraints. Make sure, when you practice to play/run all of your media to ensure you do not exceed your time limit. Also detail the interesting points or methods used in your research. 
+
+These presentations will take place during class on March 9th & 11th.
