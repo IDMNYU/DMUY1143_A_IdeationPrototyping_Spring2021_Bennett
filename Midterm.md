@@ -53,3 +53,16 @@ Create a short 4 minute presentation on your progress to date. Do not show every
 Practice your presentation to ensure that it fits within the time constraints. Make sure, when you practice to play/run all of your media to ensure you do not exceed your time limit. Also detail the interesting points or methods used in your research. 
 
 These presentations will take place during class on March 9th & 11th.
+
+
+### Tips for your presentation (seriously....read and review these. It makes ALL the difference....)
+
+
+• PRACTICE aloud. Yes, talk it out, not just rehearse it in your head.
+
+
+• PRACTICE aloud, including your media play time. It's surprising how much time it eats up.
+
+• The more we PRACTICE, the more comfortable with what we are saying as well as knowing what we are going to say next. PRACTICE
+
+• [THOUGHTS ON PUBLIC SPEAKING BY ZACH HOLMAN](http://speaking.io/) Click the links!!! <--- all of them!
