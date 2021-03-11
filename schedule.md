@@ -179,7 +179,7 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
 <tr>
     <td valign="top">wk 11<p>April 13 & April 15</p></td> 
     <td valign="top">Review Homework<br>Future Presentation Brainstorm</td>
-     <li><a href = "Future_weeklyBrief.md"> Future Project Homework</a></li>
+    <td valign="top"> <li><a href = "Future_weeklyBrief.md"> Future Project Homework</a></li>
   <li><a href="constant_input_output.md">constant input/output project</a></li> 
 <li> Post your <a href = "notebook_or_sketchbook.md">sketchbook</a> work to your Process site </li><li><a href ="Time_Management_System.md">Time Management System</a> and reflection</li>
 <li> Read - Don't Read This Book </li>
