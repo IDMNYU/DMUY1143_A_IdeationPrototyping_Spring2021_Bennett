@@ -131,8 +131,8 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
     <td>
       <ul>
     <li> <a href="constant_input_output.md">constant input/output</a></li>
-    <li>Read Speculative Futures</li>
-    <li> Fill out your <a href = "self_assessments.md">midterm self-assessment </a>regarding your progress through the entire course, thus far (not just the) Urban Intervention project alone. <a href = "https://github.com/IDMNYU/IdeationPrototypingSpring19-Bennett/blob/master/I%26P_final_self_assessment_2019.pdf"> Please refer to this document. </a></li>
+    <li><a href = "Future_weekly_brief.md"> Future Project Homework</a></li>
+    <li> Fill out your <a href = "self_assessments.md">midterm self-assessment </a>regarding your progress through the entire course, thus far (not just the) Midterm project alone. <a href = "https://github.com/IDMNYU/IdeationPrototypingSpring19-Bennett/blob/master/I%26P_final_self_assessment_2019.pdf"> Please refer to this document. </a></li>
     <li> Post your <a href = "notebook_or_sketchbook.md">sketchbook </a> work to your Process site </li>
     </ul> <li><a href ="Time_Management_System.md">Time Management System</a></li></ul>
     </td>
@@ -141,7 +141,7 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
     <td valign="top">wk 7 <p>March 16 & March 18</p></td>    
     <td valign="top"><strong>I+P Exercise: Investing in Futures (game play)</strong> <br>Prototyping Exercises</td>
     <td valign="top">
-       <li><a href="">Research Future Project</a></li>
+       <li><a href = "Future_weekly_brief.md"> Future Project Homework</a></li>
    <li><a href="constant_input_output.md">constant input/output</a></li>
     <li> Post your <a href = "notebook_or_sketchbook.md">sketchbook</a> work to your Process site </li>
     <li><a href ="Time_Management_System.md">Time Management System</a> and reflection</li> <li> Start Reading - Don't Read This Book </li>
@@ -150,7 +150,7 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
     <td valign="top">wk 8 <p>March 23 & March 25</p></td>    
     <td valign="top"><strong> Group Sessions<br>I+P Exercises</strong> </td>
     <td valign="top">
-    <li><a href="">Future Project </a></li>
+    <li><a href = "Future_weekly_brief.md"> Future Project Homework</a></li>
     <li> Read the latest letters from the last co-hort and write a thoughtful reflection on your Process site. How do these letters, your midterm assessment, and feedback inform and/or change your process in this course?</li>
    <li><a href="constant_input_output.md">constant input/output</a></li>
     <li> Post your <a href = "notebook_or_sketchbook.md">sketchbook</a> work to your Process site </li>
@@ -159,7 +159,7 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
 <tr>
     <td valign="top">wk 9 <p>March 30 and April 1</p></td>    
     <td valign="top"> Review of Homework<br>  Personas</td>
-    <td valign="top"><li><a href="">Future Project.</a></li> 
+    <li><a href = "Future_weekly_brief.md"> Future Project Homework</a></li>
       <li> Read the midterm letters from the last cohort and post a reflection on your process site.</li>
         <li><a href="constant_input_output.md">constant input/output</a></li>
     <li> Post your <a href = "notebook_or_sketchbook.md">sketchbook</a> work to your Process site </li>
@@ -171,7 +171,7 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
     <td valign="top">wk 10<p>April 6 & April 8</p></td> 
     <td valign="top">Review Homework</td>  
     <td valign="top">  
-       <li><a href="">Future Project </a></li>
+      <li><a href = "Future_weekly_brief.md"> Future Project Homework</a></li>
    <li><a href="constant_input_output.md">constant input</a></li>
 <li> Post your <a href = "notebook_or_sketchbook.md">sketchbook</a> work to your Process site </li><li><a href ="Time_Management_System.md">Time Management System</a> and reflection</li><li> Read - Don't Read This Book </li>
     </td>
@@ -179,7 +179,7 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
 <tr>
     <td valign="top">wk 11<p>April 13 & April 15</p></td> 
     <td valign="top">Review Homework<br>Future Presentation Brainstorm</td>
-      <td valign="top"><li><a href="">Future Project </a></li>
+     <li><a href = "Future_weekly_brief.md"> Future Project Homework</a></li>
   <li><a href="constant_input_output.md">constant input/output project</a></li> 
 <li> Post your <a href = "notebook_or_sketchbook.md">sketchbook</a> work to your Process site </li><li><a href ="Time_Management_System.md">Time Management System</a> and reflection</li>
 <li> Read - Don't Read This Book </li>
@@ -189,7 +189,7 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
     <td valign="top">wk 12<p>April 20 & April 22</p></td> 
     <td valign="top">Future Presentation Dry Run</td>  
     <td valign="top"> 
-       <li><a href="">Future Project </a></li>
+       <li><a href = "Future_weekly_brief.md"> Future Project Homework</a></li>
        <li> Create, prepare and practice your presentation on your Constant I/O project</li>
     <li> Post your <a href = "notebook_or_sketchbook.md">sketchbook</a> work to your Process site </li><li><a href ="Time_Management_System.md">Time Management System</a> and reflection</li>
     <li> Read - Don't Read This Book </li></td>
@@ -199,7 +199,7 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
     <td valign="top">wk 13<p>April 27 & April 29</p></td> 
     <td valign="top">Review Homework <p> Constant Input/Output Presentations </p></td>  
     <td valign="top"> 
-    <li><a href="">Future Project </a></li>
+   <li><a href = "Future_weekly_brief.md"> Future Project Homework</a></li>
     <li> Post the "take aways" from Don't Read This Book </li>
     </td>
 </tr>
