@@ -27,7 +27,10 @@ Post the visuals to your blog along with a written reflection about what was gen
     > learning<br>
     > transportation<br>
 
-4. Identify Secondary topics, in addition to your Primary topics for your Future Narrative. Research (and be diverse with your research) these topics. What are some analogous times in history? What are some related discoveries in science, technology, medicine, etc? You can pull from these to inform your story. Begin an annotated bibliography, annotating what you have specifically gained from this source. 4 sources minimum. 
+4. Identify Secondary topics, in addition to your Primary topics for your Future Narrative. These could be other threads/aspects/tenets that are characteristic of your world
+
+
+5. Research (and be diverse with your research) these topics. What are some analogous times in history? What are some related discoveries in science, technology, medicine, etc? You can pull from these to inform your story. Begin an annotated bibliography, annotating what you have specifically gained from this source. 4 sources minimum. 
 
 #### Semester Week 6 | Week 1: Future Project Launch
 
