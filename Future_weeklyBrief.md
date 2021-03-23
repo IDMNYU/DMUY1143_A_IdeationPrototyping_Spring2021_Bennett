@@ -2,6 +2,24 @@
 ##### Spring 2021 • Katherine Bennett • Tues/Thurs 4:00PM-5:50PM • Remote
 
 
+#### Semester week 8 | Week 3: Develop your world specifically
+
+0. Identify Secondary Topics that are operating in your world. These are not necessarily characteristics of your world (shared values, climate, etc), but other specific ideas that exist in your world. Perhaps these are ideas that resulted from your Card Sorting, or have since begun to form. Use your sketchbook to explore this.
+
+1. Research your Primary and Secondary topics, adding at least 4-5 posts to your annotated bibliography
+
+2. Create a visual mood board which describes your world, how it looks, how it feels, characteristics. These are the visuals of this world. This moodboard should be dense and have multiple images to represent each aspect. One image of a space ship doesn't cut it. there should be multiple images. This should be vast. Start this mood board. If you don't finish it this week, you will the following week. But visual evidence of concerted effort must exist.
+
+
+3. Create concept maps to further explore various aspects taking place in your world. Concept maps are like mind-maps, yet there is a specific relationship which links one entry from another. Use your sketch book to explore this.
+
+
+4. Begin a _draft_ of a [timeline](narrative_timeline.md) of your world. Ordering significant events in time with relation to one another. Use your sketchbook to explore this.
+
+
+
+
+
 #### Semester week 7 | Week 2: Go deeper
 
 0. Revisit the Card Sorting exercise if you are not happy with the results from last time. Remember, each step goes more deeply than the last. Mix and match the cards to generate various ideas.
