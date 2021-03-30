@@ -2,6 +2,36 @@
 ##### Spring 2021 • Katherine Bennett • Tues/Thurs 4:00PM-5:50PM • Remote
 
 
+#### Semester week 9 | Week 4: The plot forms....
+
+_A narrative should be developing, which is set in your world. This narrative will be the tool to help you define an object from your world, as well as the message back to us in the present. These exercises + assignments are preparing your path to the final._
+
+0. Post the product of last weeks in-class exercises (Business/Service in your world & person + identity prompt) as well as this week's (Headlines From the Future).
+
+00. Develop your Mood boards, as necessary.
+
+000. [Read Module 9](https://teaching.polishedsolid.com/ip/mod9/content/index.html#/?_k=wtxr6j)
+
+1. (If you have not done so already or are not at this point,) Create a concept map (use Mural.co; see Slack resources) which explores the prominent issues in your world. This is the cause + effect; reasons why things are occuring; relationships between people/events; competing passions/forces; alternate markets, etc
+
+
+2. Add 2-3 more resources to your annotated bibliography, ideally developing aspects from the exercise above. These resources should be diverse (not all concerning the same subject matter)
+
+
+3. Digging deeper into the issues in your world (or issues now resolved), create a draft of 3-4 [personas](https://github.com/IDMNYU/DMUY1143_A_IdeationPrototyping_Spring2021_Bennett/blob/main/Personas.md) of central people in your world
+
+
+4. Continue developing and refining your [timeline](narrative_timeline.md) of your world. Ordering significant events in time with relation to one another. You should be working towards a high resolution version for the final.
+
+
+*Note: In the coming weeks you will be creating:
+  *- an object from your world (several iterations)*
+  *- storyboards, developing this narrative (several iterations)*
+  *- creative presentation of this project*
+*As such, the assignments numbered (above and below) set up the context for you to move forward.*
+
+
+
 #### Semester week 8 | Week 3: Develop your world specifically
 
 0. Identify Secondary Topics that are operating in your world. These are not necessarily characteristics of your world (shared values, climate, etc), but other specific ideas that exist in your world. Perhaps these are ideas that resulted from your Card Sorting, or have since begun to form. Use your sketchbook to explore this.

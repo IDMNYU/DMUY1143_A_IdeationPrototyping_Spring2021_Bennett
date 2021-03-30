@@ -1,7 +1,6 @@
 ### DM-UY 1143 A Ideation and Prototyping
 ##### Spring 2021 • Katherine Bennett • Tues/Thurs 4:00PM-5:50PM • Remote
 
-
 # Persona
 
 
