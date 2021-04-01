@@ -8,13 +8,13 @@ _A narrative should be developing, which is set in your world. This narrative wi
 
 0. Post the product of last weeks in-class exercises (Business/Service in your world & person + identity prompt) as well as this week's (Headlines From the Future).
 
-A. What is a Business or Service that is offered in your world? What do they offer or sell? How do they sell it ("cash", account/billing, barter)? How do they offer their services/products (retail store, online, in-home, shipping, etc)? What are their hours of opperation?
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A. What is a Business or Service that is offered in your world? What do they offer or sell? How do they sell it ("cash", account/billing, barter)? How do they offer their services/products (retail store, online, in-home, shipping, etc)? What are their hours of opperation?
 
-B. Pick a person from your world and their role. This could be anybody, but they have a role (ex. political leader, scientist, teacher, elder, doctor, shop cleric, dissident, marginalized person, engineer). Choose a prompt to write as them in your world (ex, diary entry, shopping list, letter to a friend or political leader, op-ed piece in a publication, describe a holiday, write a meeting agenda).
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; B. Pick a person from your world and their role. This could be anybody, but they have a role (ex. political leader, scientist, teacher, elder, doctor, shop cleric, dissident, marginalized person, engineer). Choose a prompt to write as them in your world (ex, diary entry, shopping list, letter to a friend or political leader, op-ed piece in a publication, describe a holiday, write a meeting agenda).
 
-C. What are the headlines in a news publication? Think international, national, regional, cultural, recreational activities, politics, etc. Check out the New York Times or NPR's website to get an idea of the scope. These are HEADLINES not stories!
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; C. What are the headlines in a news publication? Think international, national, regional, cultural, recreational activities, politics, etc. Check out the New York Times or NPR's website to get an idea of the scope. These are HEADLINES not stories!
 
-D. What are the emotions of a person in your world? SEE SLACK for the specific fill-in-the-blank prompts and the examples given in class. This is an exercise to help you get more specific about what's going on in the world through the lense of 1 person. This is a two-step prompt process.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; D. What are the emotions of a person in your world? SEE SLACK for the specific fill-in-the-blank prompts and the examples given in class. This is an exercise to help you get more specific about what's going on in the world through the lense of 1 person. This is a two-step prompt process.
 
 
 00. Develop your Mood boards, as necessary.
