@@ -8,6 +8,15 @@ _A narrative should be developing, which is set in your world. This narrative wi
 
 0. Post the product of last weeks in-class exercises (Business/Service in your world & person + identity prompt) as well as this week's (Headlines From the Future).
 
+A. What is a Business or Service that is offered in your world? What do they offer or sell? How do they sell it ("cash", account/billing, barter)? How do they offer their services/products (retail store, online, in-home, shipping, etc)? What are their hours of opperation?
+
+B. Pick a person from your world and their role. This could be anybody, but they have a role (ex. political leader, scientist, teacher, elder, doctor, shop cleric, dissident, marginalized person, engineer). Choose a prompt to write as them in your world (ex, diary entry, shopping list, letter to a friend or political leader, op-ed piece in a publication, describe a holiday, write a meeting agenda).
+
+C. What are the headlines in a news publication? Think international, national, regional, cultural, recreational activities, politics, etc. Check out the New York Times or NPR's website to get an idea of the scope. These are HEADLINES not stories!
+
+D. What are the emotions of a person in your world? SEE SLACK for the specific fill-in-the-blank prompts and the examples given in class. This is an exercise to help you get more specific about what's going on in the world through the lense of 1 person. This is a two-step prompt process.
+
+
 00. Develop your Mood boards, as necessary.
 
 000. [Read Module 9](https://teaching.polishedsolid.com/ip/mod9/content/index.html#/?_k=wtxr6j)
@@ -24,11 +33,16 @@ _A narrative should be developing, which is set in your world. This narrative wi
 4. Continue developing and refining your [timeline](narrative_timeline.md) of your world. Ordering significant events in time with relation to one another. You should be working towards a high resolution version for the final.
 
 
-*Note: In the coming weeks you will be creating:
+*Note: In the coming weeks you will be creating:*
+
   *- an object from your world (several iterations)*
+
   *- storyboards, developing this narrative (several iterations)*
+
   *- creative presentation of this project*
+
 *As such, the assignments numbered (above and below) set up the context for you to move forward.*
+
 
 
 
