@@ -1,6 +1,24 @@
 ### DM-UY 1143 A Ideation and Prototyping
 ##### Spring 2021 • Katherine Bennett • Tues/Thurs 4:00PM-5:50PM • Remote
 
+#### Semester week 10 | Week 5: Storyboard
+
+
+0. To define the message back, explore what the issues are in your world. Concept Maps are ideal for this. The message back should be specific (NOT vague nor general i.e. - Love one another, Don't pollute) and link directly to your research and the precise developements of your world and be delivered to our present. Show evidence of your process (research, concept map)
+
+
+1.  Storyboard (Draft) the narrative which delivers the message back. [Read Module 4](https://teaching.polishedsolid.com/ip/mod4/content/index.html#/?_k=sreswl) for examples of storyboards as well as different types 
+
+
+2. Develop object (first drafts/iterations)
+
+
+3.  Add 3-4 more diverse sources and ANNOTATE them to your annotated bibliograhy. See Module 4 for annotations.
+
+
+4. Refine timeline + personas, especially with consideration to the new research, issues, and message back. In the end, they need to be high-fidelity documents situating your world
+
+
 
 #### Semester week 9 | Week 4: The plot forms....
 
