@@ -1,6 +1,36 @@
 ### DM-UY 1143 A Ideation and Prototyping
 ##### Spring 2021 • Katherine Bennett • Tues/Thurs 4:00PM-5:50PM • Remote
 
+#### Semester week 11 & 12 | Week 6-7: Storyboard
+
+**Note that April 19th is a NYU holiday. As such, blogs will not be checked until April 26th**
+
+**Please refer to the announcements and discussion in class regarding the order of importance below. Some of you are ready to begin #5. Some are not there yet (but will hopefully be after week 12)**
+
+1. A developed (i.e. iterated) storyboard. Work towards a high-fidelity storyboard.
+
+Your storyboard is not a summary of your timeline. It builds off of various aspects of your world and forms/weaves a thread of a story. What are the challenges in your world (whether current or resolved)? What are the contraints and problems (whether current or resolved)? What comes in with a saving or destroying force?
+
+Capture the critical segments in a particular window. Think of it as a major scene by major scene of your story (versus moment to moment). Think less about specific details and more about specific points within the story. [An example of major scenes](https://www.youtube.com/watch?v=MRyPSOyC7_c) versus the actual [story](https://www.youtube.com/watch?v=HyHNuVaZJ-k)
+
+See Module 4 for the different types of storyboards and week 10 for various templates.
+
+2. Define/refine your message back
+
+3. Refine your [timeline](narrative_timeline.md) to high fidelity. Some need to develop their timeline. If you haven't refined your [personas](Personas.md), please do so.
+
+4. Create a physical iteration of your [Future Object/Future Artifact](FutureArtifact.md). Don't forget about the SCAMPER technique to even develop a new (not previously existing) object/artifact. [Miro even has a SCAMPER template.](https://miro.com/app/board/o9J_lKSlTvc=/)
+
+5. The final presentation that you are creating for your Future Project, must be from that future. Meaning, you can not be in this present and describe that future. You must be an element from that future, or a future further out. This includes media, objects, and people. 
+
+I want to see you use what you have created thus far, for this project, as a launching pad into your Final. I am expecting you to be imaginative, experimental and risky.
+
+In addition to the _method_ you are exploring, create the media used to deliver the information about this world.
+
+*Research. Ideate. Prototype.* Show evidence of each of these three on your site for next week. Mindmaps, storyboards, moodboards, etc. The further you can go, the better. Try to develop a dry-run of it to present in class to get feedback next week.
+
+To prepare your presentation, not only (1) research the technqiues you are using, but (2) refine your content. (3) Connect your message to the presentation. (4) Ensure that your presentation gives us an idea, of what your world is like, and the current standing of the world. Work to connect all of these threads, in a creative, experimental context.
+
 
 
 
@@ -20,7 +50,7 @@
 3.  Add 3-4 more diverse sources and ANNOTATE them to your annotated bibliograhy. See Module 4 for annotations.
 
 
-4. Refine timeline + personas, especially with consideration to the new research, issues, and message back. In the end, they need to be high-fidelity documents situating your world
+4. Refine [timeline](narrative_timeline.md) + [personas](Personas.md), especially with consideration to the new research, issues, and message back. In the end, they need to be high-fidelity documents situating your world
 
 
 
