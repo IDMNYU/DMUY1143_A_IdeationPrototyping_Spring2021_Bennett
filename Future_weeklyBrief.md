@@ -1,6 +1,31 @@
 ### DM-UY 1143 A Ideation and Prototyping
 ##### Spring 2021 • Katherine Bennett • Tues/Thurs 4:00PM-5:50PM • Remote
 
+
+#### Semester week 14
+
+0. Work on the final items I have directed you to (see Slack feedback)
+
+1. Create a post which has links to the following finalized documents (ie, finalized format): 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; * Annotated Bibliography
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; * [High Fidelity Timeline](narrative_timeline.md) 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; * [Future Object/Future Artifact](FutureArtifact.md)(and iterations)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; * Final Storyboard (miro has templates, as well as other links below)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; * The message back needs to be apparent (storyboard, presentation; ideation process to generate it)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; * [Personas](Personas.md)
+
+##### Due May 12 @noon EST:
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; * Process documents for Final presentation and Final files (if applicable)
+
+2. Note the [End of Semester Deliverables](end-of-semester-deliverables.md)
+
 #### Semester week 11 & 12 | Week 6-7: Storyboard
 
 **Note that April 19th is a NYU holiday. As such, blogs will not be checked until April 26th**
