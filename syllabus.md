@@ -5,8 +5,8 @@
 
     Katherine Bennett • Katherine.Bennett@nyu.edu • Spring 2021 
     Tuesday/Thursday • 4:00PM-5:50PM • remote 
-    Office Hours: Friday 10am-12pm EST, by appointment: , <strike> https://calendly.com/ladyk/office-hours [by appointment](https://calendly.com/ladyk/office-hours)** </strike> Message me in Slack on Friday Morning and I'll send a Zoom link. First Come, First Serve.
-    
+    Office Hours: Friday 10am-12pm EST, by appointment: Message me in Slack on Friday Morning and I'll send a Zoom link. First Come, First Serve.
+
 #### Course Management Site:
 
 https://github.com/IDMNYU/DMUY1143_A_IdeationPrototyping_Spring2021_Bennett 
